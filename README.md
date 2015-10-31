@@ -1,4 +1,4 @@
-neptune
+Neptune
 =======
 
 Neptune I: 16-bit RISC Microprocessor
